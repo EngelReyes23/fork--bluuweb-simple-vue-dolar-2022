@@ -1,7 +1,8 @@
 # api-test
 
 ## Preview
-- [preview](https://willowy-travesseiro-c16256.netlify.app/)
+- [preview Frontend](https://public-api-dolar-uf-euro-bitcoin.netlify.app/)
+- [Api public](https://api-dolar-kib9.onrender.com/)
 
 This template should help get you started developing with Vue 3 in Vite.
 
